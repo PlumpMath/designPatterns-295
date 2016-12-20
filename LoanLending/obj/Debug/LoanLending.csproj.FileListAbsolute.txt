@@ -1,0 +1,6 @@
+C:\Users\Povilas\Documents\Visual Studio projects\LoanLending\LoanLending\bin\Debug\LoanLending.exe.config
+C:\Users\Povilas\Documents\Visual Studio projects\LoanLending\LoanLending\bin\Debug\LoanLending.exe
+C:\Users\Povilas\Documents\Visual Studio projects\LoanLending\LoanLending\bin\Debug\LoanLending.pdb
+C:\Users\Povilas\Documents\Visual Studio projects\LoanLending\LoanLending\obj\Debug\LoanLending.csprojResolveAssemblyReference.cache
+C:\Users\Povilas\Documents\Visual Studio projects\LoanLending\LoanLending\obj\Debug\LoanLending.exe
+C:\Users\Povilas\Documents\Visual Studio projects\LoanLending\LoanLending\obj\Debug\LoanLending.pdb
